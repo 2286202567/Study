@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RPC_Study/consumer/Consumer.iml" filepath="$PROJECT_DIR$/RPC_Study/consumer/Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis_study/Mybatis_study.iml" filepath="$PROJECT_DIR$/Mybatis_study/Mybatis_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC_Study/Provider/Provider.iml" filepath="$PROJECT_DIR$/RPC_Study/Provider/Provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC_Study/Provider_common/Provider_common.iml" filepath="$PROJECT_DIR$/RPC_Study/Provider_common/Provider_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC_Study/RPC_Study.iml" filepath="$PROJECT_DIR$/RPC_Study/RPC_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot_Study/SpringBoot_Study.iml" filepath="$PROJECT_DIR$/SpringBoot_Study/SpringBoot_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_Study/Spring_Study.iml" filepath="$PROJECT_DIR$/Spring_Study/Spring_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tomcat_study/Tomcat_study.iml" filepath="$PROJECT_DIR$/Tomcat_study/Tomcat_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC_Study/lzrpc/lzrpc.iml" filepath="$PROJECT_DIR$/RPC_Study/lzrpc/lzrpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot_Study/springboot/springboot.iml" filepath="$PROJECT_DIR$/SpringBoot_Study/springboot/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/study.iml" filepath="$PROJECT_DIR$/.idea/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot_Study/user/user.iml" filepath="$PROJECT_DIR$/SpringBoot_Study/user/user.iml" />
+    </modules>
+  </component>
+</project>

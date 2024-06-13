@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Provider_common" />
+        <module name="Tomcat_study" />
+        <module name="Spring_Study" />
+        <module name="Consumer" />
+        <module name="lzrpc" />
+        <module name="user" />
+        <module name="springboot" />
+        <module name="Mybatis_study" />
+        <module name="Provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Consumer" target="1.8" />
+      <module name="lzrpc" target="1.8" />
+      <module name="Mybatis_study" target="1.8" />
+      <module name="Provider" target="1.8" />
+      <module name="Provider_common" target="1.8" />
+      <module name="RPC_Study" target="1.8" />
+      <module name="Spring_Study" target="1.8" />
+      <module name="springboot" target="1.8" />
+      <module name="SpringBoot_Study" target="1.8" />
+      <module name="Tomcat_study" target="1.8" />
+      <module name="user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
