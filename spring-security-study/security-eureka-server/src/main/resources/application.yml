@@ -1,0 +1,11 @@
+server:
+  port: 1000
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false  #禁用注册中心向自己注册
+    fetchRegistry: false  #不让注册中心获取服务的注册列表
+    serviceUrl:
+      defaultZone: http://localhost:1000/eureka/
+      #注册中心的注册地址 ，其他微服务需要向这个地址注册

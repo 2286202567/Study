@@ -1,0 +1,12 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:1000/eureka/  #注册中心地址
+  instance:
+    prefer-ip-address: true  #使用ip地址注册
+    instance-id: resource1-server:4000   #指定服务的id
+server:
+  port: 4000
+spring:
+  application:
+    name: resource1-server

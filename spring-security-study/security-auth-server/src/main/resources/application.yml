@@ -1,0 +1,20 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:1000/eureka/   #注册中心地址
+  instance:
+    prefer-ip-address: true  #使用ip地址注册
+    instance-id: auth-server:3000  #指定服务的id
+server:
+  port: 3000
+mybatis:
+  mapper-locations: classpath:mapper/*Mapper.xml
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    username: root
+    password: 123456
+    url: jdbc:mysql://127.0.0.1:3306/study?useSSL=false
+    driver-class-name: com.mysql.jdbc.Driver
+  application:
+    name: auth-server

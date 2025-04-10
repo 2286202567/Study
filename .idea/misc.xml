@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -8,6 +9,9 @@
         <option value="$PROJECT_DIR$/SpringBoot_Study/pom.xml" />
         <option value="$PROJECT_DIR$/RPC_Study/pom.xml" />
         <option value="$PROJECT_DIR$/Tomcat_study/pom.xml" />
+        <option value="$PROJECT_DIR$/Netty__Study/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-study/pom.xml" />
+        <option value="$PROJECT_DIR$/ES_Study/pom.xml" />
       </list>
     </option>
   </component>
