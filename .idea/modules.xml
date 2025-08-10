@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ES_Study/ES_Study.iml" filepath="$PROJECT_DIR$/ES_Study/ES_Study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-security-study/security-auth-server/security-auth-server.iml" filepath="$PROJECT_DIR$/spring-security-study/security-auth-server/security-auth-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-security-study/security-eureka-server/security-eureka-server.iml" filepath="$PROJECT_DIR$/spring-security-study/security-eureka-server/security-eureka-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-security-study/security-resource-common/security-resource-common.iml" filepath="$PROJECT_DIR$/spring-security-study/security-resource-common/security-resource-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-security-study/security-resource-server/security-resource-server.iml" filepath="$PROJECT_DIR$/spring-security-study/security-resource-server/security-resource-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-security-study/security-zuul-server/security-zuul-server.iml" filepath="$PROJECT_DIR$/spring-security-study/security-zuul-server/security-zuul-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-security-study/spring-security-demo/spring-security-demo.iml" filepath="$PROJECT_DIR$/spring-security-study/spring-security-demo/spring-security-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringBoot_Study/springboot/springboot.iml" filepath="$PROJECT_DIR$/SpringBoot_Study/springboot/springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/study.iml" filepath="$PROJECT_DIR$/.idea/study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringBoot_Study/user/user.iml" filepath="$PROJECT_DIR$/SpringBoot_Study/user/user.iml" />
     </modules>
   </component>
 </project>

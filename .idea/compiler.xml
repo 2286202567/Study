@@ -23,6 +23,7 @@
         <module name="security-auth-server" />
         <module name="lzrpc" />
         <module name="user" />
+        <module name="consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -31,12 +32,12 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="security-auth-server" options="-parameters" />
-      <module name="security-eureka-server" options="-parameters" />
-      <module name="security-resource-common" options="-parameters" />
-      <module name="security-resource-server" options="-parameters" />
-      <module name="security-zuul-server" options="-parameters" />
-      <module name="spring-security-demo" options="-parameters" />
+      <module name="security-auth-server" options="" />
+      <module name="security-eureka-server" options="" />
+      <module name="security-resource-common" options="" />
+      <module name="security-resource-server" options="" />
+      <module name="security-zuul-server" options="" />
+      <module name="spring-security-demo" options="" />
     </option>
   </component>
 </project>
